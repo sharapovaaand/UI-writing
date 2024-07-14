@@ -47,7 +47,7 @@ When I see an opportunity to improve UX by adding, moving, or changing text, I d
 
 ## Result
 
-
+![Alt text](PBI_dashboard.png)
 
 
 
