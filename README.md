@@ -47,8 +47,9 @@ When I see an opportunity to improve UX by adding, moving, or changing text, I d
 
 ## Result
 
-![Alt text](PBI_dashboard.png)
-
+![Parallels Browser Isolation dashboard](PBI_dashboard.png)
+![Parallels Browser Isolation applications](PBI_applications.png)
+![Parallels Browser Isolation policies](PBI_policies.png)
 
 
 
@@ -85,3 +86,6 @@ Luckily for me, Kaspersky already had voice and tone guidelines in place. The Ka
 
 ## Result
 
+![Kaspersky CyberTrace](Kaspersky_CyberTrace.png)
+![Kaspersky Scan Engine](Kaspersky_Scan_Engine_1.png)
+![Kaspersky Scan Engine](Kaspersky_Scan_Engine_2.png)
