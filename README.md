@@ -80,7 +80,7 @@ We established a workflow that worked for both projects:
 
 Luckily for me, Kaspersky already had voice and tone guidelines in place. The Kaspersky product voice is meant to evoke confidence, safety, and futuristic feel. I just had to make sure that the UI text was aligned with those concepts:
 - Confidence — text should be short, clear, and easy to read.
-- Safety — consequences of all actions should be clearly described.
+- Safety — the consequences of all actions should be clearly described.
 - Futuristic feel — the cutting-edge aspect of technologies should be emphasized.
 
 
