@@ -30,7 +30,7 @@ After reviewing the features and the initial text proposed by the product manage
 
 - Simple — text must convey simplicity as emphasized in the product vision.
 - Technical — for Parallels Browser Isolation Management Portal only. Since this service is used by system administrators, the text should provide enough technical details for them to work comfortably.
-- Modern — most of the previous Parallels products are on-prem, and the move to the cloud should be emphasized by a more modern voice.
+- Modern — most of the previous Parallels products are on-prem, and the move to the cloud should be emphasized with a more modern voice.
 
 
 ### Provide the team with guidelines on capitalization and terminology
