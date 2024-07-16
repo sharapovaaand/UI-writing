@@ -28,9 +28,9 @@ The product is divided into two SaaS services: Parallels Browser Isolation Manag
 
 After reviewing the features and the initial text proposed by the product manager, I decided that the product voice should convey the following concepts:
 
-- Simple -- Text must convey simplicity as emphasized in the product vision.
-- Technical -- For Parallels Browser Isolation Management Portal only. Since this service is used by system administrators, the text should provide enough technical details for them to work comfortably.
-- Modern -- Most of the previous Parallels products are on-prem, and the move to the cloud should be emphasized by a more modern voice.
+- Simple — text must convey simplicity as emphasized in the product vision.
+- Technical — for Parallels Browser Isolation Management Portal only. Since this service is used by system administrators, the text should provide enough technical details for them to work comfortably.
+- Modern — most of the previous Parallels products are on-prem, and the move to the cloud should be emphasized by a more modern voice.
 
 
 ### Provide the team with guidelines on capitalization and terminology
@@ -79,9 +79,9 @@ We established a workflow that worked for both projects:
 ### Develop a consistent voice for the product
 
 Luckily for me, Kaspersky already had voice and tone guidelines in place. The Kaspersky product voice is meant to evoke confidence, safety, and futuristic feel. I just had to make sure that the UI text was aligned with those concepts:
-- Confidence -- Text should be short, clear, and easy to read  
-- Safety -- Consequences of all actions should be clearly described
-- Futuristic feel -- The cutting-edge aspect of technologies should be emphasized
+- Confidence — text should be short, clear, and easy to read.
+- Safety — consequences of all actions should be clearly described.
+- Futuristic feel — the cutting-edge aspect of technologies should be emphasized.
 
 
 ## Result
